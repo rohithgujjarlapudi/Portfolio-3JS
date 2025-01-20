@@ -1,5 +1,5 @@
 import {BallCanvas} from "./canvas";
-import {SectionWrapper} from "../hoc";
+import {SectionWrapper} from "../hoc/index";
 import { technologies } from "../constants";
 
 const Tech = () => {
