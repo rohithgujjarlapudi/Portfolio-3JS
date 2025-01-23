@@ -41,19 +41,19 @@ import {
   
   const services = [
     {
-      title: "Web Developer",
+      title: "Data engineer",
       icon: web,
     },
     {
-      title: "React Native Developer",
+      title: "Data Analyst",
       icon: mobile,
     },
     {
-      title: "Backend nodejs Developer",
+      title: "Software engineer",
       icon: backend,
     },
     {
-      title: "Software developer ",
+      title: "Backend nodejs developer",
       icon: creator,
     },
   ];
